@@ -3,12 +3,14 @@
     {
       "id": "1",
       "title": "Daring Greatly",
-      "author": "Brene Brown"
+      "author": "Brene Brown",
+      "yearPublished": "2012"
     },
     {
       "id": "2",
       "title": "Sapiens",
-      "author": "Yuval Noah Harari"
+      "author": "Yuval Noah Harari",
+      "yearPublished": "2011"
     }
   ]
 }
